@@ -1,0 +1,56 @@
+{
+  "Contacts": [
+    {
+      "name": "Amr Mohamed",
+      "company": "Teleperformance",
+      "email": "test@test.com",
+      "title": "Agent",
+      "mobile": 10010010010,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCXNh9OsJ5FQZPljU_-rLiND2_9XogYnyxQ&usqp=CAU",
+      "groupId": "2",
+      "id": 1
+    },
+    {
+      "name": "Ahmed Abdel Fatah",
+      "company": "Amazon",
+      "email": "test2@test.com",
+      "title": "Agent",
+      "mobile": 11011011011,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCXNh9OsJ5FQZPljU_-rLiND2_9XogYnyxQ&usqp=CAU",
+      "groupId": "3",
+      "id": 2
+    },
+    {
+      "name": "Karim Abdallah",
+      "company": "Jumia",
+      "email": "test3@test.com",
+      "title": "Agent",
+      "mobile": 12012012012,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCXNh9OsJ5FQZPljU_-rLiND2_9XogYnyxQ&usqp=CAU",
+      "groupId": "1",
+      "id": 3
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    },
+    {
+      "id": "5",
+      "name": "Service"
+    }
+  ]
+}
